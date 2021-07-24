@@ -21,3 +21,6 @@ $(".toggle").click(function(){
         $(".searchIcon").removeClass("fa-times").addClass("fa-search");
       }
     });
+
+
+    // this is not working????
